@@ -1,0 +1,7 @@
+.userinfo{
+    text-align: left;
+}
+
+.userinfo > .card-header{
+    text-align: center;
+}

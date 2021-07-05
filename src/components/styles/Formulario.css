@@ -1,0 +1,28 @@
+.App-logo{
+    display: grid;
+    margin: 0 auto;
+}
+
+.card{
+    margin: 2.5% 15%;
+}
+
+.card-title{
+    color: black;
+}
+
+.form-group {
+    margin: 1.5%;
+}
+
+.form-group > label {
+    float: left;
+    color: #0f0f0f9e;
+    font-size: small;
+    margin: 0.15%;
+}
+
+.btnSave{
+    float: right;
+    margin: 2% 1%;
+}
